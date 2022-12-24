@@ -1,3 +1,5 @@
+#made by Oleksandr Horbun
+
 class testApp:
     print ("Hello World!")
     print ("This is testApp for a Git")

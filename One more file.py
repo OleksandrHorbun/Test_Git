@@ -1,0 +1,1 @@
+print("That's new file which will be tracked by Git")
