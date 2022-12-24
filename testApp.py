@@ -5,3 +5,5 @@ class testApp:
     file = open('readme.txt', 'r', encoding="utf-8")
     print("\n", file.read())
     file.close()
+
+    print("Hello World, again!!!")
